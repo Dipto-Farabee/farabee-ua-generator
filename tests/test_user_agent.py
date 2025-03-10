@@ -1,6 +1,6 @@
 """
-Random User-Agent
-Copyright: 2022 Ekin Karadeniz (github.com/iamdual)
+Farabee User-Agent Generator
+Copyright: 2025 Dipto Farabee (github.com/Dipto-Farabee)
 License: Apache License 2.0 
 """
 import re
